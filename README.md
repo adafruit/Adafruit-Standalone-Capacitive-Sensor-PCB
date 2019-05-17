@@ -4,7 +4,7 @@
 <a href="http://www.adafruit.com/products/1374"><img src="assets/1374.jpg?raw=true" width="275px"></a>&nbsp; 
 <a href="http://www.adafruit.com/products/1375"><img src="assets/1375.jpg?raw=true" width="275px"></a><br />
 
-Breakout boards for stand-alone capacitive touch sensors. These are the simplest ways to create projects with capacitive touch sensors. No microcontroller is required here - just power with 1.8 to 5.5VDC. When a capacitive load is detected (e.g. a person touches one of the conductive contacts) the corresponding LED on the right lights up and the output pin goes low. 
+Breakout boards for stand-alone capacitive touch sensors. These are the simplest ways to create projects with capacitive touch. No microcontroller is required here - just power with 1.8 to 5.5VDC. When a capacitive load is detected (e.g. a person touches one of the conductive contacts) the corresponding LED lights up and the output pin goes low. 
 
 Format is EagleCAD schematic and board layout
 
